@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩‍💻 Hey there! I'm Vaidehi Patel
 
-<!--
-**vaidehipatel311/vaidehipatel311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 A bit about me
 
-Here are some ideas to get you started:
+Currently pursuing my **Master’s in Computer Science** at the **University of Texas at Arlington**, I’m a backend-leaning full-stack developer who enjoys turning complex problems into clean, efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With hands-on experience in both **Java-based enterprise systems** and **modern JavaScript frameworks**, I’ve contributed to projects across startups and university teams, working on everything from dynamic UIs to scalable APIs.
+
+### 🔧 What I work with:
+- 💻 **Java**, **Spring MVC**, **Hibernate**, **JSP**, **JDBC**
+- 🌐 **React**, **Node.js**, **JavaScript**, **HTML/CSS**
+- 🧠 **Python**, **Flask**, ML-based applications
+- 🛠️ REST APIs, SQL, Jenkins CI/CD, Agile dev
+
+### 📍 Past Experiences:
+- Web Dev Intern @ **CloseDigit LLP** – React + Node.js apps
+- Web Dev Intern @ **Besitec** – Java/Spring microservices
+- Python & AI Intern @ **AxisRay** – Built an intelligent traffic control system
+- iOS Intern @ **Elsner** – Created a CRUD-based to-do app in Swift
+
+📚 Always curious, always building. Let’s connect or collaborate!
+
+📩 Reach me: [vaidehip311@gmail.com](mailto:vaidehip311@gmail.com)
